@@ -1,7 +1,7 @@
 import os
 
 from dotenv import load_dotenv
-from langchain_core.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate #ctrl + click to opent definition of PromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_ollama import ChatOllama
 
